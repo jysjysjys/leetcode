@@ -48,12 +48,15 @@
 
 九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万 IT 程序员找到高薪 offer! 提供 1 对 1 求职指导、算法指导、前后端项目、简历代笔等服务。
 
-- 推荐刷题网站：[www.lintcode.com](https://www.lintcode.com/?utm_source=tf-github-lucifer2022)， 戳此免费领取 7 天[LintCode 超级 Vip](https://www.lintcode.com/vip/activity/zWIMOY)
+- 推荐[免费ChatGPT网站](https://www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer)，戳此免费使用：[www.lintcode.com/chat-gpt](https://www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer)
 
 - 推荐北大 FB 双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-lucifer2022)，有人靠他连拿 3 个大厂 offer
 
 ![](https://p.ipic.vip/fu39bf.jpg)
 
+## 力扣专属折扣
+
+力扣免费题目已经有了很多经典的了，也覆盖了所有的题型，只是很多公司的真题都是锁定的。个人觉得如果你准备找工作的时候，可以买一个会员。另外会员很多leetbook 也可以看，结合学习计划，效率还是蛮高的。如果你要买力扣会员的话，这里有我的专属力扣折扣：https://leetcode.cn/premium/?promoChannel=lucifer (年度会员多送两个月会员，季度会员多送两周会员)
 ## :calendar:《91 天学算法》限时活动
 
 很多教育机构宣传的 7 天，一个月搞定算法面试的，我大概都了解了下，不怎么靠谱。学习算法这东西，还是要靠积累，没有量变是不可能有质变的。还有的人选择看书，这是一个不错的选择。但是很多人选了过时的或者质量差的书，又或者不会去写书中给的练习题，导致效果很差。
@@ -389,6 +392,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0900. RLE 迭代器](./problems/900.rle-iterator.md)
 - [0911. 在线选举](./problems/911.online-election.md)
 - [0912. 排序数组](./problems/912.sort-an-array.md)
+- [0918. 环形子数组的最大和](./problems/918.maximum-sum-circular-subarray.md) 👍
 - [0932. 漂亮数组](./problems/932.beautiful-array.md)
 - [0935. 骑士拨号器](./problems/935.knight-dialer.md)
 - [0947. 移除最多的同行或同列石头](./problems/947.most-stones-removed-with-same-row-or-column.md)
